@@ -5,6 +5,8 @@ import playerData from './fakeData/data.json';
 import { useEffect, useState } from 'react';
 import Salary from './component/Salary/Salary';
 
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 function App() {
   const [data, setData] = useState([]);
   const [player, setPlayer] = useState([]);
