@@ -2,90 +2,90 @@
   "id": 1,
   "name": "Mohammad Ashraful",
   "email": "dgriffe0@cisco.com",
-  "salary": "12143",
+  "salary": 12143,
   "img": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/feature/images/ashraful_11.jpg?itok=C91WAsg1"
 }, {
   "id": 2,
   "name": "Masrafi Bin Murtuza",
   "email": "bpull1@shinystat.com",
-  "salary": "22143",
+  "salary": 22143,
   "img": "https://img.etimg.com/thumb/msid-76482397,width-1200,height-900/news/sports/mashrafe-mortaza-tests-positive-for-covid-19.jpg"
 }, {
   "id": 3,
   "name": "Tamim Iqbal",
   "email": "rmcginn2@wikia.com",
-  "salary": "22143",
+  "salary": 22143,
   "img": "http://celebswikis.biz/wp-content/uploads/2018/04/Tamim-Iqbal.jpg"
 }, {
   "id": 4,
   "name": "Mahmudullah Riyad",
   "email": "rsalliss3@stanford.edu",
-  "salary": "22143",
+  "salary": 22143,
   "img": "https://www.daily-bangladesh.com/media/imgAll/2020March/en/Mahmudullah-Riyad-2004071219.jpg"
 }, {
   "id": 5,
   "name": "Mushfiqur Rahim",
   "email": "pfrankum4@cam.ac.uk",
-  "salary": "22143",
+  "salary": 22143,
   "img": "https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/rahim150601.jpg"
 }, {
   "id": 6,
   "name": "Sakib Al Hasan",
   "email": "rmanketell5@dmoz.org",
-  "salary": "32143",
+  "salary": 32143,
   "img": "https://imagevars.gulfnews.com/2019/06/25/Bangladesh-s-Shakib-Al-Hasan_16b8e6ce10a_large.jpg"
 }, {
   "id": 7,
   "name": "Mominul Hoque",
   "email": "gbicker6@gravatar.com",
-  "salary": "22143",
+  "salary": 22143,
   "img": "https://www.sportsnoticias.com/wp-content/uploads/2020/09/mominul-haque.jpg"
 }, {
   "id": 8,
   "name": "Soumya Sarkar",
   "email": "rsyrett7@e-recht24.de",
-  "salary": "222143",
+  "salary": 222143,
   "img": "https://www.cricwaves.com/cricket/pics/players/Soumya-sarker.jpg"
 }, {
   "id": 9,
   "name": "Taskin Ahmed",
   "email": "ahupe8@squidoo.com",
-  "salary": "121433",
+  "salary": 121433,
   "img": "https://www.mykhel.com/thumb/247x100x233/cricket/players/3/5563.jpg"
 }, {
   "id": 10,
   "name": "Rubel Hossain",
   "email": "mpatington9@plala.or.jp",
-  "salary": "121436",
+  "salary": 121436,
   "img": "https://st3.cricketcountry.com/wp-content/uploads/cricket/20150301121956.jpeg"
 }, {
   "id": 11,
   "name": "Nasir Hossain",
   "email": "cbrafielda@wufoo.com",
-  "salary": "121437",
+  "salary": 121437,
   "img": "http://www.theindependentbd.com/assets/news_images/Nasir9.jpg"
 }, {
   "id": 12,
   "name": "Anamul Hoque Bijoy",
   "email": "bgoskerb@cnbc.com",
-  "salary": "121435",
+  "salary": 121435,
   "img": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/CRrX0Kw0qKSkB6DzaCjinTzna4KNzZayZGvSpQS6.jpeg"
 }, {
   "id": 13,
   "name": "Mustafizur Rahman",
   "email": "fcadgec@slideshare.net",
-  "salary": "221435",
+  "salary": 221435,
   "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170925/mustafizur-rahman.jpg"
 }, {
   "id": 14,
   "name": "Liton Das",
   "email": "rgillesond@nydailynews.com",
-  "salary": "121436",
+  "salary": 121436,
   "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170914/liton-das.jpg"
 }, {
   "id": 15,
   "name": "Mosaddek Hossain",
   "email": "jpettitte@sitemeter.com",
-  "salary": "121436",
+  "salary": 121436,
   "img": "https://thefinancialexpress.com.bd/uploads/1535346036.jpg"
 }]

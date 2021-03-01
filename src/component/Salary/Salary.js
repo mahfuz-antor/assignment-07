@@ -1,8 +1,8 @@
 import React from 'react';
 
-const Money = (props) => {
+const Salary = (props) => {
     const player = props.player;
-    console.log(props.player)
+    // console.log(props.player)
 
     // console.log(player);
     // let totalSalary = 0;
@@ -12,8 +12,9 @@ const Money = (props) => {
     // //     console.log(data.salary)
     // //     totalSalary = totalSalary + data.salary;
     // // }
-    const totalSalary = player.reduce( (sum, data) => sum + Number(data.salary),[])
-    console.log(totalSalary)
+    const totalSalary = player.reduce( (sum, data) => sum + (data.salary),0)
+
+    console.log(player)
     return (
         <div>
             <h2>This is a player:{player.length}</h2>
@@ -22,4 +23,4 @@ const Money = (props) => {
     );
 };
 
-export default Money;
+export default Salary;

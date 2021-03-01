@@ -1,4 +1,4 @@
-
+import logo from './logo.svg';
 import './App.css';
 import Player from './component/Player/Player';
 import playerData from './fakeData/data.json';
@@ -10,16 +10,13 @@ function App() {
   const [player, setPlayer] = useState([]);
   
     useEffect(() => {
-      // fetch('api.mocki.io/v1/e20c8986')
-      // .then(res => res.json())
-      // .then(data=> setData(data))
       setData(playerData);
       console.log(playerData);
       const names = data.map(data => data.name)
-      // console.log(names)
+      console.log(names)
     }, [])
 
-    const handleAddPlayer = (handleAddPlayer) => {
+    const handleAddPlayer = (data) => {
       const newSelect = [...player, data];
       setPlayer(newSelect)
   }
