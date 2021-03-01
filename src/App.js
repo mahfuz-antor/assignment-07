@@ -1,23 +1,26 @@
 import logo from './logo.svg';
 import './App.css';
+import Player from './component/Player/Player';
+import playerData from './fakeData/data.json';
+import { useEffect, useState } from 'react';
 
 function App() {
+  const [data, setData] = useState([]);
+    useEffect(() => {
+      setData(playerData);
+      console.log(playerData);
+      const names = data.map(data => data.name)
+      console.log(names)
+    }, [])
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>Player loaded:{data.length}</h1>
+      <ul>
+        {
+          data.map(data => <Player data={data.name}></Player>)
+        }
+      </ul>
+      <Player></Player>
     </div>
   );
 }
